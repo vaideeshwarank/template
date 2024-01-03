@@ -1,6 +1,7 @@
 # **Cloud Operations Engineer**
 
 ###**Technical Skills** 
+
 AWS, Azure, Kubernetes, Azure DevOps
 
 ###**Work Experience**
